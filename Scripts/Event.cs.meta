@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a76a64bf163b5824cbfe694e71dbde89
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - canvas: {instanceID: 0}
+  - map: {fileID: 687642513010985477, guid: 8cb6dd8a0e2eb524ba0d0eb6aaf04976, type: 3}
+  - column: {fileID: 7340682015523983684, guid: 65f3082d9f1db6344b0daf841f986cf0,
+      type: 3}
+  - tunel: {fileID: 2863799968155173700, guid: 93190cb78d18e214d948025272c8deac, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: db64eed9d92477444904569f821cd71d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - me: {fileID: 687642513010985477, guid: 8cb6dd8a0e2eb524ba0d0eb6aaf04976, type: 3}
+  - column: {fileID: 7340682015523983684, guid: 65f3082d9f1db6344b0daf841f986cf0,
+      type: 3}
+  - rock: {fileID: 4274402921959632350, guid: 55375ce537d7bc747953e364c18561a7, type: 3}
+  - cube_bonus: {fileID: 2943005971657310345, guid: 3cd51db56bbd16348a76814b302f700c,
+      type: 3}
+  - cube_slow: {fileID: 4918034787827518634, guid: 8ea97a6f477c66743a9b298b2dbf7eee,
+      type: 3}
+  - cube_free: {fileID: 272592687953539648, guid: 4661d592e7c2fe74888a8946360e0822,
+      type: 3}
+  - variant0: {fileID: 9127120572191758296, guid: 60e1366c78dc06b4688382ae71bbac6d,
+      type: 3}
+  - variant1: {fileID: 9127120572191758296, guid: ff2e3b906b46bb44ab90a53447ccbe68,
+      type: 3}
+  - variant2: {fileID: 9127120572191758296, guid: 0e2cbe997928bc24184060d76f01c04e,
+      type: 3}
+  - variant3: {fileID: 9127120572191758296, guid: a0ff8cca12f0cdb48ad214858033df88,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

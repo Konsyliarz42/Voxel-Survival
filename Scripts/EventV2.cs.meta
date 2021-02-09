@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 91e10c25fd871d145b097b44a970a6d0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - canvas: {instanceID: 0}
+  - map_prefab: {fileID: 687642513010985477, guid: 8cb6dd8a0e2eb524ba0d0eb6aaf04976,
+      type: 3}
+  - column_prefab: {fileID: 7340682015523983684, guid: 65f3082d9f1db6344b0daf841f986cf0,
+      type: 3}
+  - tunel_prefab: {fileID: 3207377525273432101, guid: 92a176386c040f542ae9e85a9c0efd24,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
